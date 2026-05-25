@@ -1,16 +1,110 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rakshak05/Rakshak05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Rakshak%20S.%20Barkur&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20Dev%20in%20the%20making%20%7C%20C%2B%2B%20%7C%20ML%20Background&descAlignY=60&descSize=18" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About Me 
+
+```cpp
+struct Rakshak {
+    std::string name      = "Rakshak S. Barkur";
+    std::string heading_to[] = {"Systems Programming", "C++", "OS Internals", "Low-level Dev"};
+    std::string roots[]      = {"AIML", "Python", "ML/DL", "Android (Kotlin)"};
+    std::string motto        = "Started with models. Now I want to build what runs them.";
+};
+```
+
+- ⚙️ Transitioning into **systems programming** — OS, compilers, memory, infra
+- 🔩 Diving deep into **modern C++** (C++17/20), memory models & concurrency
+- 🧠 Background in **ML/AI** — RAG, Active Inference, medical ML
+- 📱 Built a **Faculty App** for BMSIT in Kotlin
+- 🌱 Going from high-level abstractions to the metal
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+**Primary (where I'm headed)**
+
+[![Systems Skills](https://skillicons.dev/icons?i=cpp,c,bash,linux,cmake&perline=5)](https://skillicons.dev)
+
+**Background (where I came from)**
+
+[![ML Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,kotlin,androidstudio&perline=5)](https://skillicons.dev)
+
+**Tooling**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rakshak05&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshak05&theme=radical&show_icons=true&hide_border=true&layout=compact" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rakshak05&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [📱 BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android app for faculty management | Kotlin |
+| [🤖 RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Python |
+| [🧠 Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python |
+| [🧬 Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | ML model for early sepsis detection | Python |
+| [🌿 Folibuddy](https://github.com/Rakshak05/Folibuddy) | Smart plant companion app | HTML/JS |
+
+---
+
+### 🎯 Currently Exploring
+
+```
+├── 🔩 Systems (primary focus)
+│   ├── Modern C++ (C++17/20)
+│   ├── Memory management & RAII
+│   ├── Concurrency & multithreading
+│   └── OS internals & compilers
+└── 🧠 ML Roots (background)
+    ├── RAG & LLM pipelines
+    ├── Probabilistic / Active Inference
+    └── Applied ML (healthcare, NLP)
+```
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshaksb/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakshak05)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
+
+*"Started with models. Now I want to build what runs them."*
+
+</div>
