@@ -69,6 +69,17 @@ $ echo $MOTTO
 
 ### GitHub Stats
 
+## Achievements & Badges
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Rising%20Star.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(50%20days).gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(100%20days).gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(200%20days).gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Jun%2025').gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Knight).gif" width="180"/>
+</p>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rakshak05&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
