@@ -53,12 +53,27 @@ $ echo $MOTTO
 
 ---
 
+### Competitive Programming & Open Source
+
+<div align="center">
+
+| Platform | Problems Solved |
+|---|---|
+| [LeetCode](https://leetcode.com/u/_Rakshak_/) | 400+ |
+| [GeeksForGeeks](https://www.geeksforgeeks.org/user/rakshakggs/) | 700+ |
+| [GSSoC '26](https://gssoc.girlscript.org/profile/e3386d85-b6ea-4c6e-b3c9-1c559eea6b33) | Contributor |
+
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakshak05&theme=radical&show_icons=true&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshak05&theme=radical&show_icons=true&hide_border=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rakshak05&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshak05&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" height="165"/>
 
 </div>
 
@@ -110,6 +125,9 @@ $ echo $MOTTO
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshaksb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakshak05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Rakshak_/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rakshakggs/)
+[![GSSoC](https://img.shields.io/badge/GSSoC_'26-Contributor-orange?style=for-the-badge)](https://gssoc.girlscript.org/profile/e3386d85-b6ea-4c6e-b3c9-1c559eea6b33)
 
 </div>
 
