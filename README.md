@@ -6,26 +6,34 @@
 
 ---
 
-### 👋 About Me 
+### About Me
 
-```cpp
-struct Rakshak {
-    std::string name      = "Rakshak S. Barkur";
-    std::string heading_to[] = {"Systems Programming", "C++", "OS Internals", "Low-level Dev"};
-    std::string roots[]      = {"AIML", "Python", "ML/DL", "Android (Kotlin)"};
-    std::string motto        = "Started with models. Now I want to build what runs them.";
-};
+```bash
+$ whoami
+  Rakshak S. Barkur
+
+$ cat interests.txt
+  -> Systems Programming · C++ · OS Internals · Low-level Dev
+  -> ML/AI background · RAG · Active Inference · Android (Kotlin)
+
+$ cat status.txt
+  -> Transitioning: high-level ML --> systems & low-level C++
+  -> Currently learning: C++17/20, memory models, concurrency
+  -> Building: one commit closer to the metal every day
+
+$ echo $MOTTO
+  "Started with models. Now I want to build what runs them."
 ```
 
-- ⚙️ Transitioning into **systems programming** — OS, compilers, memory, infra
-- 🔩 Diving deep into **modern C++** (C++17/20), memory models & concurrency
-- 🧠 Background in **ML/AI** — RAG, Active Inference, medical ML
-- 📱 Built a **Faculty App** for BMSIT in Kotlin
-- 🌱 Going from high-level abstractions to the metal
+- Transitioning into **systems programming** — OS, compilers, memory, infra
+- Diving deep into **modern C++** (C++17/20), memory models & concurrency
+- Background in **ML/AI** — RAG, Active Inference, medical ML
+- Built a **Faculty App** for BMSIT in Kotlin
+- Going from high-level abstractions to the metal
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
 
@@ -45,7 +53,7 @@ struct Rakshak {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -60,29 +68,35 @@ struct Rakshak {
 
 </div>
 
+<div align="center">
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakshak05&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
 ---
 
-### 🚀 Projects
+### Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [📱 BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android app for faculty management | Kotlin |
-| [🤖 RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Python |
-| [🧠 Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python |
-| [🧬 Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | ML model for early sepsis detection | Python |
-| [🌿 Folibuddy](https://github.com/Rakshak05/Folibuddy) | Smart plant companion app | HTML/JS |
+| [BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android app for faculty management | Kotlin |
+| [RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Python |
+| [Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python |
+| [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | ML model for early sepsis detection | Python |
+| [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Smart plant companion app | HTML/JS |
 
 ---
 
-### 🎯 Currently Exploring
+### Currently Exploring
 
 ```
-├── 🔩 Systems (primary focus)
+├── Systems (primary focus)
 │   ├── Modern C++ (C++17/20)
 │   ├── Memory management & RAII
 │   ├── Concurrency & multithreading
 │   └── OS internals & compilers
-└── 🧠 ML Roots (background)
+└── ML Roots (background)
     ├── RAG & LLM pipelines
     ├── Probabilistic / Active Inference
     └── Applied ML (healthcare, NLP)
@@ -90,7 +104,7 @@ struct Rakshak {
 
 ---
 
-### 🌐 Connect with Me
+### Connect
 
 <div align="center">
 
