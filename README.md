@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rakshak+S.+Barkur;Systems+Dev+in+the+making;C%2B%2B+%7C+ML+Background" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rakshak+S.+Barkur;C%2B%2B+%7C+Systems+Programming+%7C+AIML+Undergrad;From+models+to+metal." alt="Typing SVG" />
 
 </div>
 
@@ -14,12 +14,12 @@ $ whoami
 
 $ cat interests.txt
   -> Systems Programming · C++ · OS Internals · Low-level Dev
-  -> ML/AI background · RAG · Active Inference · Android (Kotlin)
+  -> AIML Undergrad · RAG · Active Inference · Android (Kotlin)
 
 $ cat status.txt
   -> Transitioning: high-level ML --> systems & low-level C++
-  -> Currently learning: C++17/20, memory models, concurrency
-  -> Building: one commit closer to the metal every day
+  -> Currently learning: Memory Models · Concurrency · Caching · Computer Networks · Distributed Systems · Systems for ML
+  -> From models to metal, one commit at a time
 
 $ echo $MOTTO
   "Started with models...Now I want to build what runs them."
@@ -106,11 +106,13 @@ $ echo $MOTTO
 
 | Project | Description | Stack |
 |---|---|---|
-| [BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android app for faculty management | Kotlin |
+| [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Build basic portfolios using resumes. | HTML/JS |
+| [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | ML model for Early Detection of Neonatal Sepsis using federated Learning. | Python |
 | [RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Python |
-| [Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python |
-| [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | ML model for early sepsis detection | Python |
-| [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Smart plant companion app | HTML/JS |
+| [BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android application for faculty management. | Kotlin |
+<!-- | [Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python | -->
+
+
 
 ---
 
@@ -118,10 +120,12 @@ $ echo $MOTTO
 
 ```
 ├── Systems (primary focus)
-│   ├── Modern C++ (C++17/20)
-│   ├── Memory management & RAII
-│   ├── Concurrency & multithreading
-│   └── OS internals & compilers
+│   ├── C++ (Proficient - Solved 400+ LeeCode · 700+ GeeksForGeeks · Peak LeetCode Contest rating: 1953)
+│   ├── Memory Models & Concurrency
+│   ├── Caching & storage systems
+│   ├── Computer networks
+│   ├── Distributed systems
+│   └── Systems for ML
 └── ML Roots (background)
     ├── RAG & LLM pipelines
     ├── Probabilistic / Active Inference
