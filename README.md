@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=Rakshak%20S.%20Barkur&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20Dev%20in%20the%20making%20%7C%20C%2B%2B%20%7C%20ML%20Background&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rakshak+S.+Barkur;Systems+Dev+in+the+making;C%2B%2B+%7C+ML+Background" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@ $ cat status.txt
   -> Building: one commit closer to the metal every day
 
 $ echo $MOTTO
-  "Started with models. Now I want to build what runs them."
+  "Started with models...Now I want to build what runs them."
 ```
 
 - Transitioning into **systems programming** — OS, compilers, memory, infra
@@ -82,9 +82,9 @@ $ echo $MOTTO
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakshak05&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakshak05&theme=radical" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshak05&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakshak05&theme=radical" height="165"/>
 
 </div>
 
