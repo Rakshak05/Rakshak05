@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=·+·+·;Rakshak+S.+Barkur;C%2B%2B+%7C+Systems+Programming+%7C+AIML+Undergrad;From+models+to+metal.;Code.+Compile.+Debug.+Repeat." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=;Rakshak+S.+Barkur;C%2B%2B+%7C+Systems+Programming+%7C+AIML+Undergrad;From+models+to+metal.;Code.+Compile.+Debug.+Repeat.;Code.+Compile.+Debug.+Repeat.;.+.+." alt="Typing SVG" />
 
 </div>
 
