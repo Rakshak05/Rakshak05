@@ -27,7 +27,7 @@ $ echo $MOTTO
 
 - Transitioning into **systems programming** — OS, compilers, memory, infra
 - Diving deep into **modern C++** (C++17/20), memory models & concurrency
-- Background in **ML/AI** — RAG, Active Inference, medical ML
+- Background in **AIML** — RAG, Active Inference, medical ML
 - Built a **Faculty App** for BMSIT in Kotlin
 - Going from high-level abstractions to the metal
 
@@ -72,12 +72,12 @@ $ echo $MOTTO
 ## Achievements & Badges
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Knight).gif" width="180"/>
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Jun%2025').gif" width="180"/>
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(200%20days).gif" width="180"/>
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(100%20days).gif" width="180"/>
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(50%20days).gif" width="180"/>
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Rising%20Star.png" width="180"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Knight).gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Jun%2025').gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(200%20days).gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(100%20days).gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(50%20days).gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Rising%20Star.png" width="100"/>
 </p>
 
 <div align="center">
