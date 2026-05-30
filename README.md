@@ -84,7 +84,7 @@ $ echo $MOTTO
   <tr>
     <td>
       <a href="https://github.com/Rakshak05">
-        <img src="https://github-readme-stats.vercel.app/api?username=Rakshak05&show_icons=true&theme=radical" height="195" alt="Rakshak's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Rakshak05&show_icons=true&theme=radical" height="195" alt="Rakshak's GitHub Stats" />
       </a>
     </td>
     <td>
