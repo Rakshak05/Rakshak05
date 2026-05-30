@@ -80,14 +80,16 @@ $ echo $MOTTO
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Rising%20Star.png" width="100"/>
 </p>
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakshak05&theme=radical" height="195"/>
+    <td>
+      <a href="https://github.com/Rakshak05">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rakshak05&show_icons=true&theme=radical" height="195" alt="Rakshak's GitHub Stats" />
+      </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Rakshak05&theme=radical&hide_border=true" height="195"/>
+    <td>
+      <a href="https://github.com/Rakshak05">
+        <img src="https://streak-stats.demolab.com/?user=Rakshak05&theme=radical" height="195" alt="Rakshak's GitHub Streak" />
       </a>
     </td>
   </tr>
