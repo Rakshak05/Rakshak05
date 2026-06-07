@@ -97,7 +97,10 @@ $ echo $MOTTO
 </table>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Rakshak's GitHub Contributions" />
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakshak05&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+  <!-- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Rakshak's GitHub Contributions" /> -->
 </div>
 
 ---
