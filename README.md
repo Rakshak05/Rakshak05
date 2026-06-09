@@ -102,15 +102,17 @@ $ echo $MOTTO
 
 ### Projects
 
+<div align="center">
+
 | Project | Description | Stack |
-|---|---|---|
+| :---: | :---: | :---: |
 | [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Build basic portfolios using resumes. | HTML/JS |
 | [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | ML model for Early Detection of Neonatal Sepsis using federated Learning. | Python |
 | [RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Python |
 | [BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android application for faculty management. | Kotlin |
 <!-- | [Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python | -->
 
-
+</div>
 
 ---
 
@@ -118,7 +120,7 @@ $ echo $MOTTO
 
 ```
 ├── Systems (primary focus)
-│   ├── C++ (Proficient - Solved 400+ LeeCode · 700+ GeeksForGeeks · Peak LeetCode Contest rating: 1953)
+│   ├── C++ (Proficient - Solved 700+ GeeksForGeeks · 400+ LeeCode · Peak LeetCode Contest rating: 1953)
 │   ├── Memory Models & Concurrency
 │   ├── Caching & storage systems
 │   ├── Computer networks
