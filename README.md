@@ -106,9 +106,9 @@ $ echo $MOTTO
 
 | Project | Description | Tech. |
 | :---: | :---: | :---: |
-| [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Build portfolios from resumes using AI. | FastAPI · Gemini API · JavaScript |
 | [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | Early Neonatal sepsis detection using federated learning | PyTorch · Flower · FedAvg · GRU-D |
-| [RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Qdrant · LangChain · Mistral · Gemini |
+| [RakxRag](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Qdrant · LangChain · Mistral · Gemini |
+| [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Build portfolios from resumes using AI. | FastAPI · Gemini API · JavaScript |
 | [BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android app for faculty management. | Kotlin · Android Studio · Firebase |
 
 <!-- | [Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python · NumPy | -->
