@@ -104,13 +104,14 @@ $ echo $MOTTO
 
 <div align="center">
 
-| Project | Description | Stack |
+| Project | Description | Tech. |
 | :---: | :---: | :---: |
-| [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Build basic portfolios using resumes. | HTML/JS |
-| [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | ML model for Early Detection of Neonatal Sepsis using federated Learning. | Python |
-| [RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Python |
-| [BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android application for faculty management. | Kotlin |
-<!-- | [Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python | -->
+| [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Build portfolios from resumes using AI. | FastAPI · Gemini API · JavaScript |
+| [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | Early Neonatal sepsis detection using federated learning | PyTorch · Flower · FedAvg · GRU-D |
+| [RAG](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Qdrant · LangChain · Mistral · Gemini |
+| [BMSIT Faculty App](https://github.com/Rakshak05/BMSIT-Faculty-app) | Android app for faculty management. | Kotlin · Android Studio · Firebase |
+
+<!-- | [Active Inference Agent](https://github.com/Rakshak05/Active-Inference-Agent) | Agent based on the Free Energy Principle | Python · NumPy | -->
 
 </div>
 
