@@ -67,9 +67,7 @@ $ echo $MOTTO
 
 ---
 
-### GitHub Stats
-
-## Achievements & Badges
+### Achievements & Badges
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Knight).gif" width="100"/>
@@ -80,6 +78,10 @@ $ echo $MOTTO
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Rising%20Star.png" width="100"/>
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Power%20Contributor.png" width="100"/>
 </p>
+
+---
+
+### GitHub Stats
 
 <table align="center">
   <tr>
