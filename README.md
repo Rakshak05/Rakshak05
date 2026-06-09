@@ -153,6 +153,16 @@ $ echo $MOTTO
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=100&section=footer" width="100%"/>
 
-*"Started with models. Now I want to build what runs them."*
+*"Somewhere between the model and the metal."* 
+
+<!-- 
+
+*"Work in progress. So is the code."*
+*"Somewhere between the model and the metal."* 
+*"Built with curiosity. Debugged with patience."*
+*"Undergrad by day. Stack overflow by night."*
+*"From tensors to transistors - still figuring out what's underneath."*
+
+-->
 
 </div>
