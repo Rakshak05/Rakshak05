@@ -74,7 +74,7 @@ $ echo $MOTTO
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(Jun%2025').gif" width="100"/>
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(200%20days).gif" width="100"/>
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(100%20days).gif" width="100"/>
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/LeetCode%20(50%20days).gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Elite.png" width="100"/>
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Rising%20Star.png" width="100"/>
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Power%20Contributor.png" width="100"/>
 </p>
