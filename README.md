@@ -59,7 +59,7 @@ $ echo $MOTTO
 
 | Platform | Problems Solved |
 |---|---|
-| [LeetCode](https://leetcode.com/u/_Rakshak_/) | 400+ |
+| [LeetCode](https://leetcode.com/u/_Rakshak_/) | 450+ |
 | [GeeksForGeeks](https://www.geeksforgeeks.org/user/rakshakggs/) | 700+ |
 | [GSSoC '26](https://gssoc.girlscript.org/profile/e3386d85-b6ea-4c6e-b3c9-1c559eea6b33) | Contributor |
 
@@ -121,7 +121,7 @@ $ echo $MOTTO
 
 ```
 ├── Systems (primary focus)
-│   ├── C++ (Proficient - Solved 700+ GeeksForGeeks · 400+ LeeCode · Peak LeetCode Contest rating: 1953)
+│   ├── C++ (Proficient - Solved 700+ GeeksForGeeks · 450+ LeeCode · Peak LeetCode Contest rating: 1953)
 │   ├── Memory Models & Concurrency
 │   ├── Caching & storage systems
 │   ├── Computer networks
