@@ -60,7 +60,7 @@ $ echo $MOTTO
 | Platform | Problems Solved |
 |---|---|
 | [LeetCode](https://leetcode.com/u/_Rakshak_/) | 450+ |
-| [GeeksForGeeks](https://www.geeksforgeeks.org/user/rakshakggs/) | 700+ |
+| [GeeksForGeeks](https://www.geeksforgeeks.org/profile/rakshakggs?tab=activity) | 700+ |
 | [GSSoC '26](https://gssoc.girlscript.org/profile/e3386d85-b6ea-4c6e-b3c9-1c559eea6b33) | Contributor |
 
 </div>
@@ -142,7 +142,7 @@ $ echo $MOTTO
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshaksb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakshak05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Rakshak_/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/rakshakggs/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/rakshakggs?tab=activity)
 [![GSSoC](https://img.shields.io/badge/GSSoC_'26-Contributor-orange?style=for-the-badge)](https://gssoc.girlscript.org/profile/e3386d85-b6ea-4c6e-b3c9-1c559eea6b33)
 
 </div>
