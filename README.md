@@ -139,6 +139,7 @@ $ echo $MOTTO
 
 <div align="center">
 
+[![Resume](https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=googledocs&logoColor=black)](https://github.com/Rakshak05/Rakshak05/raw/main/assets/Rakshak_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakshaksb/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rakshak05)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/_Rakshak_/)
