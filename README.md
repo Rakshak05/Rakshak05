@@ -76,7 +76,7 @@ $ echo $MOTTO
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Champion.png" width="100"/>
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Elite.png" width="100"/>
   <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Legend.png" width="100"/>
-  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Power%20Contributor.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/Rakshak05/Rakshak05/main/assets/badges/GSSoC%20Top%20100.png" width="100"/>
 </p>
 
 ---
