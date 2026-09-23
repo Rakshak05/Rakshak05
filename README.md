@@ -19,8 +19,7 @@ $ cat education.txt
   -> Final yr AIML student at BMS Institute of Technology and Management.
 
 $ cat interests.txt
-  -> Systems Programming · C++ · OS Internals · Low-level Dev
-  -> Background: RAG · Active Inference · Android (Kotlin)
+  -> Systems Programming · Modern C++ · OS Internals · Compilers · Distributed Systems
 
 $ cat status.txt
   -> Transitioning: high-level ML --> systems & low-level C++
