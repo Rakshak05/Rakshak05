@@ -22,9 +22,8 @@ $ cat interests.txt
   -> Systems Programming · Modern C++ · OS Internals · Compilers · Distributed Systems
 
 $ cat status.txt
-  -> Transitioning: high-level ML --> systems & low-level C++
-  -> Currently learning: Memory Models · Concurrency · Caching · Computer Networks · Distributed Systems · Systems for ML
-  -> From models to metal, one commit at a time
+  -> Eager to learn, experiment and explore new paradigms
+  -> Constantly pushing technical boundaries and building from the ground up
 
 $ echo $MOTTO
   "Started with models...Now I want to build what runs them."
