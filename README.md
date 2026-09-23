@@ -12,6 +12,9 @@
 $ whoami
   Rakshak S. Barkur
 
+$ cat experience.txt
+  -> Data Engineer Intern, Circles
+
 $ cat education.txt
   -> Final yr AIML student at BMS Institute of Technology and Management.
 
