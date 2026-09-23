@@ -12,9 +12,12 @@
 $ whoami
   Rakshak S. Barkur
 
+$ cat education.txt
+  -> Final yr AIML student at BMS Institute of Technology and Management.
+
 $ cat interests.txt
   -> Systems Programming · C++ · OS Internals · Low-level Dev
-  -> AIML Undergrad · RAG · Active Inference · Android (Kotlin)
+  -> Background: RAG · Active Inference · Android (Kotlin)
 
 $ cat status.txt
   -> Transitioning: high-level ML --> systems & low-level C++
