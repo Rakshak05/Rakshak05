@@ -112,6 +112,7 @@ $ echo $MOTTO
 
 | Project | Description | Tech. |
 | :---: | :---: | :---: |
+| [Agentic-ICU](https://github.com/Rakshak05/Agentic-ICU) | Multi-Agent ICU Deterioration Monitoring. | PyTorch · XGBoost · FastAPI |
 | [Neonatal Sepsis](https://github.com/Rakshak05/Neonatal-Sepsis) | Early Neonatal sepsis detection using federated learning | PyTorch · Flower · FedAvg · GRU-D |
 | [RakxRag](https://github.com/Rakshak05/RAG) | Retrieval-Augmented Generation pipeline | Qdrant · LangChain · Mistral · Gemini |
 | [Folibuddy](https://github.com/Rakshak05/Folibuddy) | Build portfolios from resumes using AI. | FastAPI · Gemini API · JavaScript |
